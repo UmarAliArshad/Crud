@@ -1,0 +1,18 @@
+# dependencies directory
+
+# Node
+backend/node_modules
+backend/.env
+backend/package-lock.json
+backend/filelog-error.log
+backend/filelog-info.log
+backend/logs/
+backend/config/config.json
+
+# React
+frontend/node_modules
+frontend/.env
+frontend/package-lock.json
+frontend/build/
+
+backend/config/config.js
